@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlmaraiCard</string>
+    <string name="header_name">Almarai Company</string>
+    <string name="best_in">Best in dairy farming industry</string>
+    <string name="offer">Offers best quality passable</string>
+    <string name="locat">Located In Saudi Arabia</string>
+    <string name="phone">Phone: +966 (11) 470 0005</string>
+    <string name="fax">Fax: +966 (11) 470 1555</string>
+</resources>
